@@ -1,6 +1,6 @@
 # Typewriter
 
-> Simulate a typewriter effect.
+Simulate a typewriter effect.
 
 ## Installation
 
