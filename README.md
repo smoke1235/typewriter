@@ -5,7 +5,7 @@ Simulate a typewriter effect.
 ## Installation
 
 ```sh
-$ npm install --save Tag
+$ npm install --save git+ssh://git@gitlab.isreadyforthefuture.nl:peter/typewriter.git
 ```
 ## Usage
 
