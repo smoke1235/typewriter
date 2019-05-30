@@ -43,7 +43,9 @@ class Typewriter extends Component {
             typewriter.type(textArray[text]).pause().delete();
         }
 
-        return (<div className="typewriter" ref="typewriter" />);
+        return (
+            <div className="typewriter" ref="typewriter" />
+        );
     }
 }
 
